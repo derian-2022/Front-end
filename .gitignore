@@ -1,0 +1,40 @@
+# Creado por https://www.toptal.com/developers/gitignore/api/nextjs
+# Editar en https://www.toptal.com/developers/gitignore?templates=nextjs
+
+### SiguienteJS ###
+# dependencias
+/node_modules
+/.pnp
+.pnp.js
+
+# prueba
+/cobertura
+
+# siguiente.js
+/.próximo/
+/afuera/
+
+# producción
+/construir
+
+# varios
+.DS_Tienda
+*.pem
+
+# depurar
+npm-debug.log*
+hilo-debug.log*
+hilo-error.log*
+.pnpm-debug.log*
+
+# archivos env locales
+.env*.local
+
+# vercel
+.vercel
+
+# mecanografiado
+*.tsbuildinfo
+próximo-env.d.ts
+
+# Fin de https://www.toptal.com/developers/gitignore/api/nextjs

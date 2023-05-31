@@ -1,0 +1,20 @@
+{
+  "name": "next_derian_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "Derian",
+  "license": "ISC",
+  "dependencies": {
+    "bootswatch": "^5.2.3",
+    "classnames": "^2.3.2",
+    "next": "^13.4.4",
+    "nprogress": "^0.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
